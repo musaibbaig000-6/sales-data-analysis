@@ -121,9 +121,49 @@ Data handling
 Analytical thinking
 
 Visualization skills
+## Requirements
+
+To run this Sales Analytics Project, install the following:
+
+pip install pandas numpy matplotlib seaborn jupyter openpyxl
+
+Python Version: 3.8+
+
+Libraries Used:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- jupyter notebook
+
+
 
 Business insight generation
 
 Python-based analysis
 
 It is designed to be a perfect portfolio project to show employers my ability to work with real-world datasets.
+## Project Outputs
+
+### Cleaned Dataset
+- Missing values removed
+- Wrong datatypes fixed
+- Duplicates removed
+
+### EDA Performed
+- Monthly Sales Trend
+- Top Selling Products
+- Revenue by Category
+- Correlation Heatmap
+
+### Visual Reports (inside /reports folder)
+- monthly_sales_report.png
+- heatmap_correlation.png
+- top_products.png
+
+### Business Insights
+- Best month of sales identified
+- Best performing product found
+- Most profitable category
+- Customer buying patterns
+
